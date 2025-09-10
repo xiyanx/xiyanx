@@ -7,7 +7,6 @@ I'm a passionate developer from Indonesia 🇮🇩
 ## About me
 
 - 🚀 Building innovative web solutions and mobile applications
-- 💻 Specializing in frontend development with modern technologies
 - ❤️ I love writing clean, efficient code and solving complex problems
 - 💬 Ask me about anything [here](https://github.com/xiyanx/xiyanx/issues)
 
