@@ -24,13 +24,8 @@ I'm a passionate developer from Indonesia 🇮🇩
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-seven-sepia-78.vercel.app/api?username=xiyanx&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-seven-sepia-78.vercel.app/api/top-langs/?username=xiyanx&layout=compact&theme=dark&hide_border=true&count_private=true" alt="Top Languages" />
-</div>
+| <img src="https://github-readme-stats-seven-sepia-78.vercel.app/api?username=xiyanx&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" /> | <img src="https://github-readme-stats-seven-sepia-78.vercel.app/api/top-langs/?username=xiyanx&layout=compact&theme=dark&hide_border=true&count_private=true" alt="Top Languages" /> |
+| ------------- | ------------- |
 
 ## Connect with me
 
@@ -39,7 +34,3 @@ I'm a passionate developer from Indonesia 🇮🇩
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
----
-
-⭐ From [xiyanx](https://github.com/xiyanx)
